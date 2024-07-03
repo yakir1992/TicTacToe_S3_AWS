@@ -1,4 +1,4 @@
-Web Application Deployment with Terraform and TicTacToe Game
+<h1>Web Application Deployment with Terraform and TicTacToe Game</h1>
 Introduction
 This project aims to provide a hands-on introduction to deploying a web application using Terraform on AWS. By following the instructions, you'll provision an EC2 instance with Nginx, create a security group for HTTP traffic, and deploy a static website (TicTacToe game) on an S3 bucket.
 
